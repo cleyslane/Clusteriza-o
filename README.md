@@ -23,6 +23,6 @@ Para esse projeto em específico foram disponibilizadas duas bases de dados, uma
 <ul>
 <li>Pré-processamento e Análise dos Dados - Cleyslane Silva e Kevenn Douglas</li>
 <li>Aplicação dos algoritmos de clusterização - Cleyslane Silva e Kevenn Douglas</li>
-<li>Visualização dos daods - Kevenn Douglas</li>
+<li>Visualização dos dados - Kevenn Douglas</li>
 </ul>
 
